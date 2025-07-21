@@ -8,3 +8,7 @@
 ## Phase 1 Summary
 
 I created a `VideoGame` class to represent a game holding information about it such as tile, genre, and platform. Everything was able to completed on time and how I wanted it to go.
+
+## Phase 2 Summary
+
+I created the `VideoGameList` class which uses a vector to store `VideoGame` objects, I also created a method to find a `VideoGame` object by id and return the pointer to that object. I made the menu for managing the inventory and that went well. I did run into an issue where I accidently used a variable before I set a value to it, leading to undefined behavior.
